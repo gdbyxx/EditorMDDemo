@@ -1,0 +1,31 @@
+{
+  "name": "editormd",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@bytemd/plugin-breaks": "^1.21.0",
+    "@bytemd/plugin-frontmatter": "^1.21.0",
+    "@bytemd/plugin-gemoji": "^1.21.0",
+    "@bytemd/plugin-gfm": "^1.21.0",
+    "@bytemd/plugin-highlight": "^1.21.0",
+    "@bytemd/plugin-highlight-ssr": "^1.21.0",
+    "@bytemd/plugin-math": "^1.21.0",
+    "@bytemd/plugin-math-ssr": "^1.21.0",
+    "@bytemd/plugin-medium-zoom": "^1.21.0",
+    "@bytemd/plugin-mermaid": "^1.21.0",
+    "@bytemd/vue-next": "^1.21.0",
+    "bytemd": "^1.21.0",
+    "juejin-markdown-themes": "^1.29.7",
+    "sass": "^1.64.1",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
